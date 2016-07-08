@@ -1,5 +1,6 @@
 #update url's for packages as they are released
 #adding comments
+#adding more comments
 cd ~
 mkdir vagrant_env
 cd vagrant_env
